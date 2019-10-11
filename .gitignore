@@ -23,7 +23,7 @@ documentation/html
 *.i
 *.d
 tools/kconfig-frontends/kconfig-mconf
-packages
+#packages
 cconfig.h
 GPUCache
 
